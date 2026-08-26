@@ -1,4 +1,4 @@
-# InnoByte Guest House
+King Sukh Guest House
 
 A Guest House Booking Management System developed using PHP and MySQL.
 

@@ -1,41 +1,26 @@
-King Sukh Guest House
+# 🏨 Guest House Booking Management System
 
-A Guest House Booking Management System developed using PHP and MySQL.
+A Guest House Booking Management System developed using **PHP, MySQL, HTML, CSS, and JavaScript**.
 
-## Project Features
+## ✨ Features
 
-- Guest House Homepage
-- Facilities Section
-- Online Booking Form
-- Booking Database
-- Booking Success Page
-- Form Validation
-- Mobile Responsive Design
-- Secure Admin Login
-- Admin Dashboard
-- Booking Statistics
-- Search and Filter Bookings
-- View Booking Details
-- Confirm Booking
-- Cancel Booking
-- Delete Booking
-- Admin Logout
-- Session Protection
+- Online room booking
+- Booking confirmation page
+- Contact form
+- Admin login
+- Admin dashboard
+- View, confirm, and cancel bookings
 
-## Technologies Used
+## 🛠 Technologies Used
 
+- PHP
+- MySQL
 - HTML5
 - CSS3
 - JavaScript
-- PHP
-- MySQL
-- phpMyAdmin
 - XAMPP
 
-## Project Structure
-
-```text
-## Screenshots
+## 📸 Screenshots
 
 ### Home Page
 ![Home Page](screenshots/home.png)
@@ -45,22 +30,15 @@ A Guest House Booking Management System developed using PHP and MySQL.
 
 ### Admin Dashboard
 ![Admin Dashboard](screenshots/dashboard.png)
-guest-house/
-│
-├── admin/
-│   ├── login.php
-│   ├── dashboard.php
-│   ├── booking-details.php
-│   ├── update_status.php
-│   ├── delete_booking.php
-│   └── logout.php
-│
-├── config/
-│   └── database.php
-│
-├── assets/
-│
-├── index.php
-├── save_booking.php
-├── booking-success.php
-└── README.md
+
+## 🚀 Installation
+
+1. Install XAMPP.
+2. Copy the project into `htdocs`.
+3. Start Apache and MySQL.
+4. Import the SQL database in phpMyAdmin.
+5. Open `http://localhost/guest-house/`.
+
+## 👨‍💻 Author
+
+**Gaurav K**

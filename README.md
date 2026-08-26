@@ -35,6 +35,16 @@ A Guest House Booking Management System developed using PHP and MySQL.
 ## Project Structure
 
 ```text
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Booking Form
+![Booking Form](screenshots/booking-form.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/dashboard.png)
 guest-house/
 │
 ├── admin/

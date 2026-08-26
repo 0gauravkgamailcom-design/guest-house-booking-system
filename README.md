@@ -23,13 +23,16 @@ A Guest House Booking Management System developed using **PHP, MySQL, HTML, CSS,
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](Screenshot%202026-08-26%20150550.png)
 
 ### Booking Form
-![Booking Form](screenshots/booking-form.png)
+![Booking Form](Screenshot%202026-08-26%20150604.png)
+
+### Booking Success
+![Booking Success](Screenshot%202026-08-26%20150614.png)
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/dashboard.png)
+![Admin Dashboard](Screenshot%202026-08-26%20150646.png)
 
 ## 🚀 Installation
 
